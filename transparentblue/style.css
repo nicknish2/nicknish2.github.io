@@ -6,9 +6,10 @@ text-align: center;
 p {text-align: left;}
 
 body {
-	margin: 0;
+	margin: 10;
 	padding: 0;
-	background-image:url(background.png);
+	background-color: #91b1fd
+	<1!-- background-image:url(background.png); -->
 	<!-- background-repeat: no-repeat; -->
 	text-align: left;
 	font-family: Georgia, Times New Roman, Times, serif;
