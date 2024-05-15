@@ -9,7 +9,7 @@ body {
 	margin: 0;
 	padding: 0;
 	background-image:url(background.png);
-	background-repeat: no-repeat;
+	<!-- background-repeat: no-repeat; -->
 	text-align: left;
 	font-family: Georgia, Times New Roman, Times, serif;
 	font-size: 13px;
